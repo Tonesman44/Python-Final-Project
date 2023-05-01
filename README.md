@@ -2,19 +2,19 @@
 Pokedex - The Temple University Reigion
 
 ## Steps to run the program
-Note that you need python 3.5 or higher
-python3 -m pip install RateMyProfessorAP
-pip install -U Flask
-pip3 install -U flask_cors
-run app.py to start the local server with flask
-run the HTML page
-interact with the page and it will call the get command in the file to pull information from the Rate my professor API
-Note that first 5 pictures on the website are examples and the search bar allows you to type in anyone from Temple's Rate my Prof database
+1. python3 -m pip install RateMyProfessorAP
+2. pip install -U Flask
+3. pip3 install -U flask_cors
+4. run app.py to start the local server with flask
+5. run the HTML page
+6. interact with the page and it will call the get command in the file to pull information from the Rate my professor API
+*Note that you need python 3.5 or higher
+*Note that first 5 pictures on the website are examples and the search bar allows you to type in anyone from Temple's Rate my Prof database
 
-### Demo
+## Demo
 link to video - blank
 
-### Challanges Faced - With Soulutions
+## Challanges Faced - With Soulutions
 Going into this project we had no experience with API's, HTML, or CSS. 
 Right off the bat we decided to get the basic design of the website out of the way, so we found out how to write some basic HTML
 From there we wanted to style the welcome page, so we learned some simple CSS to clean up the page and make it look nicer
