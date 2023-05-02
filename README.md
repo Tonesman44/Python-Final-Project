@@ -1,5 +1,6 @@
 # Python-Final-Project
 Pokedex - The Temple University Reigion
+By: Antonio Fabrizio and Jeffrey Cheung
 
 ## Steps to run the program
 1. python3 -m pip install RateMyProfessorAP
